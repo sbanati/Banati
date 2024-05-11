@@ -1,0 +1,68 @@
+baseURL: ""
+languageCode: en-us
+title: Sahil Banati
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello world, I'm Sahil! 👨‍💻"
+    Content: Welcome to my digital garden where I document my learning to become a Software Engineer.
+
+  ShowReadingTime: true
+  
+  
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+ 
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: true
+  showtoc: true
+  tocopen: false
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/sbanati"
+    - name: "twitter"
+      url: "https://twitter.com/TherealSLVR"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/sahil-banati-a4172029b/"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+menu:
+  main:
+    # - identifier: about
+    #   name: about
+    #   url: /about/
+    #   weight: 10
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 40
+    
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+
+      
+
