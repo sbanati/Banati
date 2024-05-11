@@ -20,7 +20,7 @@ Instead of thinking of this as a blog, I'd like to think of this as a place wher
 
 I plan to populate my garden with plants on:
 
-- The stack I'm using: JavaScript, Node.js, React, styled-components, GraphQL
+- The stack I'm using: JavaScript, React, styled-components, GraphQL, MongoDB and Mongoose
 - The topics im preparing for interviews: Arrays, Linked Lists and String Manipulations 
 - Projects I build
 - My journey to becoming a Software Engineer
