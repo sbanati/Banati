@@ -6,7 +6,7 @@ summary = 'A bit about me and my garden'
 description = 'A bit about me and my garden'
 author = 'Sahil Banati'
 hideSummary = false
-tags = ['Carrer']
+tags = ['Career']
 
 +++
 
