@@ -1,6 +1,6 @@
 # Digital Garden
 
-This is my first ever dev blog aka digital garden! 
+This is my first ever dev blog aka digital garden! [Check it out](https://sahilbanati.netlify.app/)
 
 I've just finished my FullStack Coding Bootcamp that lasted ~7 months and I've learnt so much, so I figured I start a blog to document my continued learning on my way to being a Software Developer
 
